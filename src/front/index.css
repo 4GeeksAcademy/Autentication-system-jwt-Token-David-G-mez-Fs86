@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+
+.card{
+    text-align: center;
+    margin-top: 2rem;
+    align-items: center;
+}
+
+.img-about-us{
+    width: 150px;
+}
+
+img{
+    margin-top: 2rem;
+}
